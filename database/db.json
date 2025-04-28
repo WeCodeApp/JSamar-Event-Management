@@ -1,0 +1,188 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "password": "hashed_password_1"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "password": "hashed_password_2"
+    },
+    {
+      "id": 1745681878762,
+      "name": "Hev Abi na Bai",
+      "email": "hev@gmail.com",
+      "password": "hev123"
+    }
+  ],
+  "events": [
+    {
+      "id": 2,
+      "name": "Event 2",
+      "date": "2023-10-02",
+      "location": "Location 2",
+      "description": "Description for Event 2",
+      "participants": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "email": "john.doe@example.com",
+          "password": "hashed_password_1"
+        },
+        {
+          "id": 2,
+          "name": "Jane Smith",
+          "email": "jane.smith@example.com",
+          "password": "hashed_password_2"
+        },
+        {
+          "id": 1745681878762,
+          "name": "Hev Abi na Bai",
+          "email": "hev@gmail.com",
+          "password": "hev123"
+        }
+      ]
+    },
+    {
+      "id": 1745748821072,
+      "name": "Wawa",
+      "date": "2025-04-02",
+      "location": "",
+      "description": "wowo",
+      "participants": [
+        {
+          "id": 1745681878762,
+          "name": "Hev Abi na Bai",
+          "email": "hev@gmail.com",
+          "password": "hev123"
+        }
+      ]
+    },
+    {
+      "id": 1745748862681,
+      "name": "wewe",
+      "date": "2025-05-02",
+      "location": "",
+      "description": "wewe",
+      "participants": []
+    },
+    {
+      "id": 1745751486891,
+      "name": "Lezgoo",
+      "date": "2025-05-02",
+      "location": "QC",
+      "description": "LEzgoooo",
+      "participants": []
+    },
+    {
+      "id": 1745756746748,
+      "name": "www",
+      "date": "2222-02-02",
+      "location": "www",
+      "description": "www",
+      "participants": []
+    },
+    {
+      "id": 1745756754174,
+      "name": "ww",
+      "date": "2222-02-02",
+      "location": "ww",
+      "description": "wwwww",
+      "participants": []
+    },
+    {
+      "id": 1745756798982,
+      "name": "ee",
+      "date": "2025-02-02",
+      "location": "ee",
+      "description": "ee",
+      "participants": []
+    },
+    {
+      "id": 1745756812893,
+      "name": "ee",
+      "date": "2025-04-25",
+      "location": "ee",
+      "description": "ee",
+      "participants": []
+    },
+    {
+      "id": 1745756824860,
+      "name": "rr",
+      "date": "2025-05-02",
+      "location": "rr",
+      "description": "rr",
+      "participants": []
+    },
+    {
+      "id": 1745756833991,
+      "name": "rr",
+      "date": "2025-04-16",
+      "location": "rr",
+      "description": "rr",
+      "participants": []
+    },
+    {
+      "id": 17457568339934,
+      "name": "rr",
+      "date": "2025-04-16",
+      "location": "rr",
+      "description": "rr",
+      "participants": []
+    },
+    {
+      "id": 174575683399144,
+      "name": "rr",
+      "date": "2025-04-16",
+      "location": "rr",
+      "description": "rr",
+      "participants": []
+    },
+    {
+      "id": 1745756833991555,
+      "name": "rr",
+      "date": "2025-04-16",
+      "location": "rr",
+      "description": "rr",
+      "participants": []
+    },
+    {
+      "id": 174575683399166,
+      "name": "rr",
+      "date": "2025-04-16",
+      "location": "rr",
+      "description": "rr",
+      "participants": [
+        "1745681878762"
+      ]
+    },
+    {
+      "id": 174575683399766,
+      "name": "rr",
+      "date": "2025-04-16",
+      "location": "rr",
+      "description": "rr",
+      "participants": []
+    },
+    {
+      "id": 174575683399176,
+      "name": "rr",
+      "date": "2025-04-16",
+      "location": "rr",
+      "description": "rr",
+      "participants": []
+    },
+    {
+      "id": 174575683399166,
+      "name": "rr",
+      "date": "2025-04-16",
+      "location": "rr",
+      "description": "rr",
+      "participants": []
+    }
+  ]
+}
